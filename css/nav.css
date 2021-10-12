@@ -13,6 +13,16 @@ nav {
     align-items: center;
 }
 
+a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    color: var(--bright-color);
+    text-transform: uppercase;
+}
+
 .logo {
     border: 2px solid var(--bright-color);
     padding: 30px 20px;
@@ -40,4 +50,23 @@ nav {
     text-align: center;
     color: var(--bright-color);
 
+}
+
+.active {
+    border-bottom: 5px solid var(--pink-color-2);
+}
+
+.login {
+    display: flex;
+    text-transform: uppercase;
+}
+
+.login-btn {
+    background: var(--pink-color);
+    padding: 0 5px;
+}
+
+.sign-in {
+    border: 1px solid var(--bright-color);
+    padding: 0 5px;
 }
