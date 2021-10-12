@@ -17,3 +17,11 @@ nav {
     border: 2px solid var(--bright-color);
     padding: 30px 20px;
 }
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.pink-clr {
+    color: var(--pink-color);
+}
