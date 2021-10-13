@@ -23,3 +23,9 @@ body {
     width: 100%;
     background: var(--dark-color-1);
 }
+
+h1, 
+h2, 
+h3 {
+    text-transform: uppercase;
+}
