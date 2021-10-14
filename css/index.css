@@ -29,3 +29,8 @@ h2,
 h3 {
     text-transform: uppercase;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
