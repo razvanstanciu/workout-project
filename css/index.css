@@ -81,7 +81,43 @@ h3 {
     background-image: url(images/alexander-jawfox.svg);
 }
 
+.first-box {
+    margin-bottom: 20px;
+}
+
+.box {
+    background-color: #332F3C;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.box h2 {
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--bright-color);
+    margin-bottom: 15px;
+}
+
+.box p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF5C;
+    margin-bottom: 25px;
+}
+
 .explore {
     display: flex;
     align-items: center;
+}
+
+.explore img {
+    margin-right: 10px;
+}
+
+.explore p {
+    color: var(--bright-color);
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0;
 }
