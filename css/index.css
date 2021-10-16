@@ -73,7 +73,12 @@ h3 {
     font-weight: 600;
     text-transform: uppercase;
     color: var(--bright-color);
+}
 
+.woman-img {
+    width: 314px;
+    height: 456px;
+    background-image: url(images/alexander-jawfox.svg);
 }
 
 .explore {
