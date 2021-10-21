@@ -5,7 +5,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
 :root {
     --pink-color: #F24B88;
     --pink-color-2: #59253E;
@@ -122,4 +121,8 @@ h3 {
     font-weight: 600;
     font-size: 18px;
     margin: 0;
+}
+
+.sub-container {
+    display: flex;
 }
