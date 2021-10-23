@@ -22,11 +22,17 @@ a {
     letter-spacing: 1px;
     color: var(--bright-color);
     text-transform: uppercase;
+    margin-right: 40px;
 }
 
 .logo {
     border: 2px solid var(--bright-color);
     padding: 30px 20px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
 }
 
 .large-txt {
@@ -65,9 +71,11 @@ a {
 .login-btn {
     background: var(--pink-color);
     padding: 0 5px;
+    margin-right: 0;
 }
 
 .sign-in {
     border: 1px solid var(--bright-color);
     padding: 0 5px;
+    margin-right: 0;
 }
