@@ -81,14 +81,21 @@ h3 {
     height: 456px;
 }
 
+.first-sc {
+    width: 37%;
+}
+
 .first-box {
     margin-bottom: 20px;
 }
 
 .box {
+    max-width: 335px;
+    max-height: 205px;
     background-color: #332F3C;
     border-radius: 10px;
     padding: 30px;
+    overflow: hidden;
 }
 
 .box h2 {
