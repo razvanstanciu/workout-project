@@ -148,10 +148,21 @@ h3 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 50px;
+}
+
+.latest-training h2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: var(--bright-color);
+    border-bottom:  5px solid var(--pink-color-2);
 }
 
 .latest-training a {
     margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--bright-color);
 }
 
 .latest-training img {
@@ -180,5 +191,5 @@ h3 {
 }
 
 .classes {
-    width: 30%;
+    width: 32%;
 }
