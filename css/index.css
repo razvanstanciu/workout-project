@@ -182,7 +182,7 @@ h3 {
     margin-bottom: 20px;
 }
 
-.latest-training button {
+.see-more {
     width: 100px;
     height: 40px;
     background-color: var(--pink-color);
@@ -196,4 +196,8 @@ h3 {
 
 .classes {
     width: 32%;
+}
+
+.cards {
+    display: flex;
 }
