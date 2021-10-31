@@ -198,6 +198,25 @@ h3 {
     width: 32%;
 }
 
+.our-team  h2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: var(--bright-color);
+    border-bottom:  5px solid var(--pink-color-2);
+    margin-bottom: 100px;
+}
+
 .cards {
     display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.card {
+    width: 25%;
+    background: var(--bright-color);
+}
+
+.card img {
+    width: 100%;
 }
