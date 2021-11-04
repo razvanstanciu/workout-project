@@ -214,9 +214,26 @@ h3 {
 
 .card {
     width: 22%;
+    padding: 10px;
     background: var(--bright-color);
 }
 
 .card img {
     width: 100%;
+}
+
+.card h3 {
+    color: #0D0D0D;
+    font-weight: 700;
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.statut {
+    font-weight: 600;
+    font-size: 13px;
+    color: #0D0D0D;
+    font-style: italic;
+    margin-bottom: 10px;
 }
