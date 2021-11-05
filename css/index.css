@@ -198,6 +198,10 @@ h3 {
     width: 32%;
 }
 
+.our-team {
+    margin-bottom: 150px;
+}
+
 .our-team  h2 {
     font-weight: 700;
     font-size: 30px;
@@ -239,4 +243,12 @@ h3 {
     color: #0D0D0D;
     font-style: italic;
     margin-bottom: 10px;
+}
+
+.info {
+    font-weight: 400;
+    font-size: 12px;
+    color: #0D0D0D5C;
+    line-height: 18px;
+    margin-bottom: 50px;
 }
