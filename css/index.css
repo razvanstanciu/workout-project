@@ -259,6 +259,23 @@ h3 {
     margin-bottom: 60px;
 }
 
+.plans h2 {
+    font-weight: 600;
+    font-size: 48px;
+    letter-spacing: 8px;
+    text-align: center;
+    color: var(--bright-color);
+}
+
+.plans p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19.5px;
+    text-align: center;
+    color: var(--bright-color);
+    margin-bottom: 30px;
+}
+
 .plans-btns {
     display: flex;
     justify-content: center;
