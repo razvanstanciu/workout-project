@@ -285,3 +285,7 @@ h3 {
 .dark {
     background-color: var(--dark-color-1);
 }
+
+.info {
+    display: flex;
+}
