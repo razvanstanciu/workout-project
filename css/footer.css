@@ -1,0 +1,15 @@
+hr {
+    margin-bottom: 50px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info p {
+    font-weight: 400;
+    color: var(--bright-color);
+    font-size: 12px;
+    line-height: 20px;
+}

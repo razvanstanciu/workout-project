@@ -26,6 +26,8 @@ a {
 }
 
 .logo {
+    width: 237px;
+    height: 122px;
     border: 2px solid var(--bright-color);
     padding: 30px 20px;
 }
