@@ -7,9 +7,29 @@ hr {
     justify-content: space-between;
 }
 
+.info h2 {
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: var(--bright-color);
+}
+
 .info p {
     font-weight: 400;
     color: var(--bright-color);
     font-size: 12px;
     line-height: 20px;
+    margin-top: 15px;
+}
+
+.info input {
+    width: 321px;
+    height: 36px;
+    border-radius: 5px;
+    padding-left: 30px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 13px;
+    color: #7B7B7B;
 }
