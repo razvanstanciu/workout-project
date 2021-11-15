@@ -14,7 +14,7 @@ hr {
     color: var(--bright-color);
 }
 
-.info p {
+.style {
     font-weight: 400;
     color: var(--bright-color);
     font-size: 12px;
@@ -34,3 +34,12 @@ hr {
     color: #7B7B7B;
 }
 
+.copyrights {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.copyrights p {
+    color: var(--bright-color);
+}
