@@ -203,6 +203,7 @@ h3 {
 }
 
 .our-team  h2 {
+    display: inline-block;
     font-weight: 700;
     font-size: 30px;
     color: var(--bright-color);
