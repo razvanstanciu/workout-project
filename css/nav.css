@@ -70,14 +70,17 @@ a {
     text-transform: uppercase;
 }
 
+.login-btn, 
+.sign-in {
+    margin: 0;
+}
+
 .login-btn {
     background: var(--pink-color);
     padding: 0 5px;
-    margin-right: 0;
 }
 
 .sign-in {
     border: 1px solid var(--bright-color);
     padding: 0 5px;
-    margin-right: 0;
 }
